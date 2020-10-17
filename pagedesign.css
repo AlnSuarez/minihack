@@ -1,0 +1,52 @@
+@font-face{
+	font-family:Harbinger;
+	src:url(fonts/Harbinger-Caps.otf);
+}
+body{
+    background-color: #0d3d89;
+}
+
+img{
+    width:10%;
+}
+
+#inklulogo{
+    background-color: #3e7cbb;
+    border-radius: 20px;
+}
+
+p{
+    font-family: Harbinger;
+    color: #ffffff;
+    text-align: center;
+}
+.parTablas1{
+    display: flex;
+}
+
+.parTablas2{
+    display: flex;
+}
+#tableone{
+    width: 49%;
+}
+#tabletwo{
+    width: 49%;
+  }
+
+  #tablethree{
+    width: 49%;
+  }
+
+#nombrepagina{
+    color: #ffffff;
+    text-align: center;
+    font-size: 100%;
+    font-family: Harbinger;
+}
+canvas{ 
+    margin-left: 15%;
+    width:75% !important; 
+    height:75% !important; 
+
+} 
